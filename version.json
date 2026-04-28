@@ -1,5 +1,5 @@
 {
-    "latestVersion": "1.5",
-    "mandatory": false,
-    "message": ""
+    "latestVersion": "1.6",
+    "mandatory": true,
+    "message": "Yeni ozellikler eklendi! Lutfen guncelleyin."
 }
